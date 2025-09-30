@@ -1,6 +1,6 @@
 export GITHUB_USERNAME=Ars1231
 export GITHUB_EMAIL=Ars89036698220potapov@yandex.ru
-export GITHUB_TOKEN=
+export GITHUB_TOKEN= 
 alias edit=nano
 cd ${GITHUB_USERNAME}/workspace
 source scripts/activate
